@@ -1,0 +1,4 @@
+# Ignores everything inside the assetto corsa folder except for the .gitignore (this) file.
+
+*
+!.gitignore
